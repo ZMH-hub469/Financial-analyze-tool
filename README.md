@@ -14,18 +14,3 @@ The sources are from WRDS database.
 5. Using SQL to precisely extract the corporate financial statement data required for analysis from the WRDS database.
 6. Using the predefined calculate_ratio() function and the extracted financial data, we compute and display key financial ratios.
 7. Based on the calculated data and market average benchmarks, we provide a brief evaluation.
-
-## 4. Key Findings
-3–5条核心结论（ bullet points ）。
-
-## 5. How to Run
-### 1. Prerequisites
-- Python 3.8+ installed
-- A valid WRDS account with access to the Compustat Fundamentals database
-### 2. Install Required Packages
-Run the following command in your terminal:
-```bash
-pip install pandas wrds
-
-
-## 6. Product Link / Demo
